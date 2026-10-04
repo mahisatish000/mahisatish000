@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Satish 👋
 
-<!--
-**mahisatish000/mahisatish000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA 1st Sem Student | Future Full Stack Developer
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning: **C Programming, HTML, CSS**
+- 🎯 2026 Goal: Build 20+ small projects & master DSA
+- 📫 Reach me: On WhatsApp Channel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+`C` `HTML5` `CSS3` `Git` `GitHub`
+
+### 📚 My BCA Journey
+This special repo is my portfolio. Follow my learning from Day 1.
+
+---
+⭐ Star this repo if you are also a BCA student!
